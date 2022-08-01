@@ -3,7 +3,11 @@ CRUD de Pokemons
 
 # Objetivo
 Este desafio tem como objetivo a contrução de um App utilizando um projeto Mobile App (Xamarin.Forms) para Android e iOS.
-O App deve ter uma listagem de Pokemons utilizando API (https://pokeapi.co/). Além disso, espera-se que seja desenvolvido o CRUD dos registros dessa API. Os dados deve ser persistidos em um banco SqLite, ou seja, na carga do App deve-se ler os dados da API e inseri-los na base local, deixando que a navegação e os processos de CRUD sejam feito no banco de dados.
+O App deve ter uma listagem de Pokemons utilizando API (https://pokeapi.co/). 
+
+Além disso, espera-se que seja desenvolvido o CRUD dos registros dessa API bem como os detalhes de um pokemon ao clicar em um item da lista. 
+
+Os dados devem ser persistidos em um banco SqLite, ou seja, na carga do App deve-se ler os dados da API e inseri-los na base local, deixando que a navegação e os processos de CRUD sejam feitod no banco de dados.
 
 # API
 https://pokeapi.co/
